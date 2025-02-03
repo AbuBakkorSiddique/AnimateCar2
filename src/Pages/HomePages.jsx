@@ -13,7 +13,7 @@ import Fotter from "../childComponens/Fotter";
 function HomePages() {
   return (
 <>
-<div>
+<div className="overflow-x-hidden">
 <NavigationBar/>
 <HomeHeroSection/>
 <WelcomeComponens/>
