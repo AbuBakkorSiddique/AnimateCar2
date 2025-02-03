@@ -1,0 +1,23 @@
+.PortFolioSide{
+    clip-path: polygon(25% 0%, 100% 0%, 75% 100%, 0% 100%);
+}
+
+.PortFolioSide_one{
+
+   
+    background-image: url("../images/Black and Red Modern Car Dealer Presentation (10).png");
+    background-size:cover;
+    background-repeat:no-repeat;
+}
+
+.PortFolioSide_two {
+ background:blue;
+}
+
+.PortFolioSide_three{
+  background:red;
+}
+
+.PortFolioSide_four{
+ background:tomato;
+}

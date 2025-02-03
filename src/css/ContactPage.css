@@ -1,0 +1,7 @@
+.ContactPage {
+    background-color: red; /* Background color separate korlam */
+    background-image: url("../images/pexels-albinberlin-919073.jpg");
+    background-size: cover; /* Image ke puro background e fit korbe */
+    background-position: center; /* Center e set korbe */
+    background-repeat: no-repeat; /* Repeat off korbe */
+}

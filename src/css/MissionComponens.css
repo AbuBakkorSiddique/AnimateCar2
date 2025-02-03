@@ -1,0 +1,15 @@
+.clip-custom {
+    clip-path: none; /* Default: No clipping on small screens */
+}
+
+@media (min-width: 768px) { /* md breakpoint */
+    .clip-custom {
+        clip-path: polygon(0 0, 86% 0, 75% 100%, 0 100%);
+        display:flex-wrap;
+        
+    }
+    .BackGround{
+        clip-path: polygon(35% 0%, 80% 0%, 65% 100%, 20% 100%);
+    }
+  
+}
